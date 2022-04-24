@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+passlib
+bcrypt
+python-multipart
+aiofiles
+python-jose
+psycopg2-binary
+deta
